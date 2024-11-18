@@ -3,4 +3,4 @@
 The purpose of this tutorial is to teach how the binary number system works.  
 This tutorial is aimed at people with little to no knowledge of the binary number system.  
 
-Click [here](one) to begin.
+Click [here](history) to begin.
