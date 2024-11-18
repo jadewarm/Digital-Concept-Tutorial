@@ -10,4 +10,4 @@ The fourth space represents eight.
 When you add one, two, and eight together, the answer is eleven. So, eleven is 1011 in binary. 
 
 Click [here](alphabet.md) to learn how binary code can be translated into the English alphabet!
-
+If you are having trouble, click [here](start.md) to go back to the first lesson.  
